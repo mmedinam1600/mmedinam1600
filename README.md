@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mmedinam1600/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mmedinam1600/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mmedinam1600/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mmedinam1600/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18051370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18051370" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/medina.martinez.miguel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/medina.martinez.miguel/" height="30" width="40" /></a>
+<a href="https://fb.com/medina.martinez.miguel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/medina.martinez.miguel/" height="30" width="40" /></a>
 <a href="https://instagram.com/micky052000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="micky052000" height="30" width="40" /></a>
 </p>
 
