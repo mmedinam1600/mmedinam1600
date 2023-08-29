@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmedinam1600" alt="mmedinam1600" /></a> </p>
 
-- 🔭 I’m currently working on [MickecraftWeb](private)
+- 🔭 I’m currently working on [YardSaleTreasureHunter](private)
 
-- 🌱 I’m currently learning **React and ERP SAP**
+- 🌱 I’m currently learning **Next.js, python, postgres**
 
 - 👨‍💻 All of my projects are available at [mmedinam1600.github.io](mmedinam1600.github.io)
 
-- 💬 Ask me about **Node.js and javascript**
+- 💬 Ask me about **Node.js, Next.js and postgres**
 
 - 📫 How to reach me **mmedinam1600@gmail.com**
 
-- ⚡ Fun fact **Videogames**
+- ⚡ Fun fact **Smite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
